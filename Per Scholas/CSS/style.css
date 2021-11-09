@@ -1,0 +1,107 @@
+
+<style type="text/css">
+
+.favlist{
+	text-decoration: underline;
+}
+span{
+	color: Red;
+	font-size: 30pt;
+	font-family: arial;
+}
+
+body{
+	border: solid;
+	margin: 5px;
+	position: center;
+}
+
+
+li{
+	color: blue;
+}
+
+h3{
+	color:cadetblue;
+	font-family:cursive;
+	font-weight;500px;
+	text-align:none;
+	text-decoration:underline;
+}
+
+h1{
+	color:cadetblue;
+	font-family:cursive;
+	font-weight;500px;
+	text-align:none;
+	text-decoration:underline;
+}
+form{
+	padding: 15px;
+	background-color: white;
+	font-style: italic;
+	border-style: solid;
+	font-weight: 900px;
+	width: 600px;
+}
+
+
+#BrandonList{
+	color: blue;
+}
+.Dietlist{
+	color: blue;
+}
+p{
+	color:blue;
+}
+#div1{
+	background-color: yellow;
+	width: 500px;
+}
+#div2{
+	background-color: yellow;
+	width: 500px;
+}
+#div3{
+	background-color: yellow;
+	width: 500px;
+}
+#div4{
+	background-color: yellow;
+	width: 500px;
+}
+input[type=button]:hover{
+	border: solid;
+	background-color:rgb(0, 230,0);
+}
+input[type=text]:focus{
+	background-color: rgb(0, 330, 0);
+	color: black;
+	width: 100%;
+	transition: 2s;
+}
+.fixed{
+	position:  fixed;
+	top: 0;
+	right: 0;
+	width: 200;
+
+}
+
+img{
+	max-width: 75%;
+	height: auto;
+
+}
+
+.fixed1{
+	position:  fixed;
+	bottom: 0;
+	right: 0;
+	width: 100;
+
+
+
+</style>
+
